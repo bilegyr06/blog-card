@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot_12-12-2024_121319_127.0.0.1.jpeg)
+![](blog-preview-card-main\Screenshot_12-12-2024_121319_127.0.0.1.jpeg)
 
 ### Links
 
